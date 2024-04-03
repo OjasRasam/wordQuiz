@@ -59,7 +59,7 @@ function initApp() {
 
     quiz = new Quiz(
         "Simple JavaScript Quiz",
-        `Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.`,
+        `This Cloud Computing Lab Project is been developed by the group consisting of members Aditya Shelke, Sairaj Pawar, Prerna Pawar, Ojas Rasam. This project is hosted on the Render free hosting service through git hub repository. Answer all the questions and the results well be shown at the end of the game!`,
         70,
         questions);
 
